@@ -1,4 +1,4 @@
-USE PUBS_MYSQL;
+CREATE PUBS_MYSQL;
 -- phpMyAdmin SQL Dump
 -- version 5.0.2
 -- https://www.phpmyadmin.net/
